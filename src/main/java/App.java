@@ -17,6 +17,8 @@ public class App {
 		em.persist(e1);
 		em.getTransaction().commit();
 		
+		
+		
 		em.close();
 	}
 
