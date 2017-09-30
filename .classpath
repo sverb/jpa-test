@@ -37,6 +37,22 @@
   <classpathentry kind="var" path="M2_REPO/dom4j/dom4j/1.6.1/dom4j-1.6.1.jar" sourcepath="M2_REPO/dom4j/dom4j/1.6.1/dom4j-1.6.1-sources.jar"/>
   <classpathentry kind="var" path="M2_REPO/xml-apis/xml-apis/1.0.b2/xml-apis-1.0.b2.jar" sourcepath="M2_REPO/xml-apis/xml-apis/1.0.b2/xml-apis-1.0.b2-sources.jar"/>
   <classpathentry kind="var" path="M2_REPO/org/hibernate/common/hibernate-commons-annotations/5.0.1.Final/hibernate-commons-annotations-5.0.1.Final.jar" sourcepath="M2_REPO/org/hibernate/common/hibernate-commons-annotations/5.0.1.Final/hibernate-commons-annotations-5.0.1.Final-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/hibernate/hibernate-annotations/3.5.6-Final/hibernate-annotations-3.5.6-Final.jar" sourcepath="M2_REPO/org/hibernate/hibernate-annotations/3.5.6-Final/hibernate-annotations-3.5.6-Final-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/hibernate/hibernate-commons-annotations/3.2.0.Final/hibernate-commons-annotations-3.2.0.Final.jar" sourcepath="M2_REPO/org/hibernate/hibernate-commons-annotations/3.2.0.Final/hibernate-commons-annotations-3.2.0.Final-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/Users/user/.m2/repository/org/hibernate/hibernate-commons-annotations/3.2.0.Final/hibernate-commons-annotations-3.2.0.Final-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/org/slf4j/slf4j-api/1.7.21/slf4j-api-1.7.21.jar" sourcepath="M2_REPO/org/slf4j/slf4j-api/1.7.21/slf4j-api-1.7.21-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/Users/user/.m2/repository/org/slf4j/slf4j-api/1.7.21/slf4j-api-1.7.21-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/org/hibernate/javax/persistence/hibernate-jpa-2.0-api/1.0.0.Final/hibernate-jpa-2.0-api-1.0.0.Final.jar" sourcepath="M2_REPO/org/hibernate/javax/persistence/hibernate-jpa-2.0-api/1.0.0.Final/hibernate-jpa-2.0-api-1.0.0.Final-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/Users/user/.m2/repository/org/hibernate/javax/persistence/hibernate-jpa-2.0-api/1.0.0.Final/hibernate-jpa-2.0-api-1.0.0.Final-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
   <classpathentry kind="var" path="M2_REPO/org/springframework/spring-core/4.3.9.RELEASE/spring-core-4.3.9.RELEASE.jar" sourcepath="M2_REPO/org/springframework/spring-core/4.3.9.RELEASE/spring-core-4.3.9.RELEASE-sources.jar">
     <attributes>
       <attribute value="jar:file:/C:/Users/user/.m2/repository/org/springframework/spring-core/4.3.9.RELEASE/spring-core-4.3.9.RELEASE-javadoc.jar!/" name="javadoc_location"/>
@@ -48,11 +64,6 @@
     </attributes>
   </classpathentry>
   <classpathentry kind="var" path="M2_REPO/mysql/mysql-connector-java/5.1.41/mysql-connector-java-5.1.41.jar" sourcepath="M2_REPO/mysql/mysql-connector-java/5.1.41/mysql-connector-java-5.1.41-sources.jar"/>
-  <classpathentry kind="var" path="M2_REPO/org/slf4j/slf4j-api/1.7.21/slf4j-api-1.7.21.jar" sourcepath="M2_REPO/org/slf4j/slf4j-api/1.7.21/slf4j-api-1.7.21-sources.jar">
-    <attributes>
-      <attribute value="jar:file:/C:/Users/user/.m2/repository/org/slf4j/slf4j-api/1.7.21/slf4j-api-1.7.21-javadoc.jar!/" name="javadoc_location"/>
-    </attributes>
-  </classpathentry>
   <classpathentry kind="var" path="M2_REPO/org/slf4j/slf4j-simple/1.7.25/slf4j-simple-1.7.25.jar" sourcepath="M2_REPO/org/slf4j/slf4j-simple/1.7.25/slf4j-simple-1.7.25-sources.jar">
     <attributes>
       <attribute value="jar:file:/C:/Users/user/.m2/repository/org/slf4j/slf4j-simple/1.7.25/slf4j-simple-1.7.25-javadoc.jar!/" name="javadoc_location"/>

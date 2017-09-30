@@ -16,7 +16,6 @@ import javax.persistence.TemporalType;
 public class Employee {
 
 	@Id
-	@GeneratedValue(strategy = GenerationType.SEQUENCE)
 	@Column(name = "EMPL_ID")
 	private long id;
 
